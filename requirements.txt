@@ -38,7 +38,7 @@ scikit-learn
 scipy
 six
 tensorboard
-tensorflow
+tensorflow-cpu
 tensorflow-estimator
 termcolor
 typing-extensions==3.10.0.0
